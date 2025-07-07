@@ -15,7 +15,7 @@ This lab focused on basic command-line navigation in both Linux (Bash) and Windo
 - Text editor for CLI-based file creation and editing
 
 ## 📄 Lab Report
-[Click here to view the full PDF report](lab-report.pdf)
+[Click here to view the full PDF report](navigation-lab-jasonguzman.pdf)
 
 ## 🎯 Key Takeaways
 - Basic Bash and PowerShell commands may differ in syntax, but both are powerful tools for managing files and folders.
